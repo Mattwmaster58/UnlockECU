@@ -119,7 +119,7 @@ namespace VisualUnlockECU
 
             cleanedText = cleanedText.Replace(",", "").Replace(" ", "").Replace("\r", "").Replace("\n", "").Replace("\t", "").Replace("-", "").ToUpper();
 
-            if (cleanedText.Length >= 4 && System.Text.RegularExpressions.Regex.IsMatch(cleanedText.Substring(0, 4), @"\A\b[0-9a-fA-F]+\b\Z"))
+            if (cleanedText.Length >= 4 && cleanedText.StartsWith("67"))
             {
                 cleanedText = cleanedText.Substring(4);
             }
