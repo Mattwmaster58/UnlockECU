@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -108,7 +108,22 @@ namespace VisualUnlockECU
         public void TryRefreshKey()
         {
             bool validHex = true;
-            string cleanedText = txtSeedValue.Text.Replace(",", "").Replace(" ", "").Replace("\r", "").Replace("\n", "").Replace("\t", "").Replace("-", "").ToUpper();
+            string cleanedText = txtSeedValue.Text;
+
+            int bracketStart = cleanedText.IndexOf('[');
+            int bracketEnd = cleanedText.IndexOf(']');
+            if (bracketStart != -1 && bracketEnd != -1 && bracketEnd > bracketStart)
+            {
+                cleanedText = cleanedText.Substring(bracketStart + 1, bracketEnd - bracketStart - 1);
+            }
+
+            cleanedText = cleanedText.Replace(",", "").Replace(" ", "").Replace("\r", "").Replace("\n", "").Replace("\t", "").Replace("-", "").ToUpper();
+
+            if (cleanedText.Length >= 4 && System.Text.RegularExpressions.Regex.IsMatch(cleanedText.Substring(0, 4), @"\A\b[0-9a-fA-F]+\b\Z"))
+            {
+                cleanedText = cleanedText.Substring(4);
+            }
+
             if (cleanedText.Length % 2 != 0)
             {
                 validHex = false;
