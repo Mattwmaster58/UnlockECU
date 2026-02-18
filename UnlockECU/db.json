@@ -47431,5 +47431,645 @@
         "DataType": "ByteArray"
       }
     ]
+  },
+  {
+    "EcuName": "IC197_1979021500",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "5F769CC116B6173D",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021500",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "F945FDE55E7D8491",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021500",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "8E9372169DF4ABCC",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021500",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "ED59915918ED81EA",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021501",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021501",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "FC246E75B365D8EF",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021501",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021501",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "A5F4CF98FB2C5645",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021501",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021501",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "3B4243C94AA47D80",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979021501",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979021501",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "1A8E8FFB3622808C",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979022800",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979022800",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "3170C0A2D8B03B1E",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979022800",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979022800",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "5ABAF4D7AFF17B84",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979022800",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979022800",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "2FC5CA903F261448",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979022800",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979022800",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "BF53B53A2AA41754",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979023801",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979023801",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "2A7C181F91FF2111",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979023801",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979023801",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "C44B7942D9C68E66",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979023801",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979023801",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "5999DD7268FB272A",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979023801",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979023801",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "DA3331FB45848414",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024300",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024300",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "27D11E3FCF1188BA",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024300",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024300",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "C1A07F6326D9F60F",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024300",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024300",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "C3893781D2EB7138",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024300",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024300",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "6318222CBE697444",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024500",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "8A058BB44145F62E",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024500",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "73925E60890C7384",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024500",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "F8DFC2901841FC47",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979024500",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979024500",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "986EAD3BF3BEFF53",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979025200",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979025200",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "BC7554F133F95DE4",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979025200",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979025200",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "6645B6157BC0CB38",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979025200",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979025200",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "EB922A46FAF463FC",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979025200",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979025200",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "8B2114F0E6726709",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979026100",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979026100",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "FC22471CB362B196",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979026100",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979026100",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "E5AF19C8FB292EEC",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979026100",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979026100",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "7AFD7DF88A5EB7AF",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979026100",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979026100",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "1A8C68A275DCBABB",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979027000",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979027000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "42C9B3AE4C1121F8",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979027000",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979027000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "D0666DF847E976EB",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979027000",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979027000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "B1A3EA8A230D2811",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979027000",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979027000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "A953A47066ACEA58",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979028000",
+    "Aliases": [],
+    "AccessLevel": 1,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979028000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "A530DB715C7055ED",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979028000",
+    "Aliases": [],
+    "AccessLevel": 3,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979028000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "8EBDAE1EA437C342",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979028000",
+    "Aliases": [],
+    "AccessLevel": 9,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979028000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "240B224F336C5C06",
+        "DataType": "ByteArray"
+      }
+    ]
+  },
+  {
+    "EcuName": "IC197_1979028000",
+    "Aliases": [],
+    "AccessLevel": 13,
+    "SeedLength": 8,
+    "KeyLength": 8,
+    "Provider": "IC204",
+    "Origin": "ic197_sw0_1979028000",
+    "Parameters": [
+      {
+        "Key": "Salt",
+        "Value": "B399FCF81EEA5F12",
+        "DataType": "ByteArray"
+      }
+    ]
   }
 ]
